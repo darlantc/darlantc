@@ -1,9 +1,7 @@
 ### Hi there 👋
-**I'm Darlan and I'm very happy to see you here!**
-
 I'm a self-learner and love to try new technologies.
 
-As an entrepreneur, I am always looking for opportunities to work on great projects that positively impact the lives of people.
+As an entrepreneur, I'm always looking for opportunities to work on great projects that positively impact the lives of people.
 
 - 🔭 I’m currently working as Senior iOS developer at Datum / DXC.
 - 🌱 I’m currently learning TDD and clean code.
@@ -22,4 +20,4 @@ As an entrepreneur, I am always looking for opportunities to work on great proje
 - The Last of Us 🔝🔝🔝
 
 ## Let's connect
-<a href="https://www.linkedin.com/in/darlantc/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://blog.darlantc.com" target="_blank"><img src="https://img.shields.io/badge/Hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white" /></a>
+[![My LinkedIn profile](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darlantc/) [![My blog](https://img.shields.io/badge/Hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.darlantc.com)
