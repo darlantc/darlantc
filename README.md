@@ -10,6 +10,7 @@ As an entrepreneur, I'm always looking for opportunities to work on great projec
    
 ## Latests articles
 <!-- BLOG-POST-LIST:START -->
+- [Hello World!](https://blog.darlantc.com/hello-world)
 <!-- BLOG-POST-LIST:END -->
 
 #### ⚡ I love to play games! My favorites franchisees are:
