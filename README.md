@@ -10,6 +10,7 @@ As an entrepreneur, I'm always looking for opportunities to work on great projec
 
 ## Latest articles
 <!-- BLOG-POST-LIST:START -->
+- [Avoid using ELSE, write a better code](https://blog.darlantc.com/avoid-using-else-write-a-better-code)
 - [Hello World!](https://blog.darlantc.com/hello-world)
 <!-- BLOG-POST-LIST:END -->
 
