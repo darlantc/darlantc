@@ -11,12 +11,12 @@ As an entrepreneur, I'm always looking for opportunities to work on great projec
 
 ## Latest articles
 <!-- BLOG-POST-LIST:START -->
+- [Simple but powerful Coding Practices that you can adopt immediately: Indentation & whitespace](https://blog.darlantc.com/simple-but-powerful-coding-practices-that-you-can-adopt-immediately-indentation-and-whitespace)
 - [Tools that I use (almost) every day to do my job as a developer](https://blog.darlantc.com/tools-that-i-use-almost-every-day-to-do-my-job-as-a-developer)
 - [Simple but powerful Coding Practices that you can adopt immediately: Classes and Functions](https://blog.darlantc.com/simple-but-powerful-coding-practices-that-you-can-adopt-immediately-classes-and-functions)
 - [Lessons I learned from watching the Essential Developer's Quiz App series](https://blog.darlantc.com/lessons-i-learned-from-watching-the-essential-developers-quiz-app-series)
 - [Simple but powerful Coding Practices that you can adopt immediately: Naming and DRY](https://blog.darlantc.com/simple-but-powerful-coding-practices-that-you-can-adopt-immediately-naming-and-dry)
 - [Avoid using ELSE, write a better code](https://blog.darlantc.com/avoid-using-else-write-a-better-code)
-- [Hello World!](https://blog.darlantc.com/hello-world)
 <!-- BLOG-POST-LIST:END -->
 
 ## Let's connect
