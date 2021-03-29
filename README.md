@@ -11,7 +11,6 @@ As an entrepreneur, I'm always looking for opportunities to work on great projec
 
 ## Latest articles
 <!-- BLOG-POST-LIST:START -->
-- [I have an abandoned project. I'll recreate it with TDD](https://blog.darlantc.com/i-have-an-abandoned-project-ill-recreate-it-with-tdd)
 - [Never rely on Strings for conditionals](https://blog.darlantc.com/never-rely-on-strings-for-conditionals)
 - [Simple but powerful Coding Practices that you can adopt immediately: Consistent naming conventions](https://blog.darlantc.com/simple-but-powerful-coding-practices-that-you-can-adopt-immediately-consistent-naming-conventions)
 - [Quick tip: Improve your code blocks with a language tag](https://blog.darlantc.com/quick-tip-improve-your-code-blocks-with-a-language-tag)
