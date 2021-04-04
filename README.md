@@ -16,6 +16,7 @@ As an entrepreneur, I'm always looking for opportunities to work on great projec
 - [Quick tip: Improve your code blocks with a language tag](https://blog.darlantc.com/quick-tip-improve-your-code-blocks-with-a-language-tag)
 - [Simple but powerful Coding Practices that you can adopt immediately: Indentation & whitespace](https://blog.darlantc.com/simple-but-powerful-coding-practices-that-you-can-adopt-immediately-indentation-and-whitespace)
 - [Tools that I use (almost) every day to do my job as a developer](https://blog.darlantc.com/tools-that-i-use-almost-every-day-to-do-my-job-as-a-developer)
+- [Simple but powerful Coding Practices that you can adopt immediately: Classes and Functions](https://blog.darlantc.com/simple-but-powerful-coding-practices-that-you-can-adopt-immediately-classes-and-functions)
 <!-- BLOG-POST-LIST:END -->
 
 ## Let's connect
