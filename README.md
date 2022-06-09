@@ -3,7 +3,7 @@ I'm a self-learner and love to try new technologies.
 
 As an entrepreneur, I'm always looking for opportunities to work on great projects that positively impact the lives of people.
 
-- 🔭 I'm currently working as Senior iOS developer at Datum / DXC.
+- 🔭 I'm currently working as Lead Front-End developer at Shelter Buddy.
 - 🌱 I'm currently learning TDD and clean code.
 - 💬 Ask me about:
 
