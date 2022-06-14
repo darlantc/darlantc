@@ -25,8 +25,6 @@ As an entrepreneur, I'm always looking for opportunities to work on great projec
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=cobalt&hide_border=true&username=darlantc" height="150" alt="languages graph"  />
 </div>
 
-<img href="https://github.com/darlantc/darlantc/blob/output/snake.svg" alt="Snake animation" />
-
 ## Tech stack
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" width="52" alt="swift logo"  />
