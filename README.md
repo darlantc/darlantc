@@ -3,9 +3,6 @@ I'm a self-learner and love to try new technologies.
 
 As an entrepreneur, I'm always looking for opportunities to work on great projects that positively impact the lives of people.
 
-- 🔭 I'm currently working as Lead Front-End developer at Shelter Buddy.
-- 🌱 I'm currently improving my skills with TDD and clean code.
-
 ## Latest articles
 <!-- BLOG-POST-LIST:START -->
 - [Never rely on Strings for conditionals](https://blog.darlantc.com/never-rely-on-strings-for-conditionals)
